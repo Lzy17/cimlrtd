@@ -3,7 +3,7 @@ layout: default
 title: Big Data
 nav_order: 3
 has_children: true
-parent: Big Data
+parent: /Big Data
 permalink: /docs/bigdataintro
 ---
 
