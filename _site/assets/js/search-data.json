@@ -1,0 +1,506 @@
+{"0": {
+    "doc": "NSF AWARD",
+    "title": "NSF AWARD",
+    "content": "This project is targeted towards the NSF research workforce who need to develop machine learning applications that will run on the national cyberinfrastructure (CI). At the heart of this project is the CI-enabled Machine Learning (CIML) training system and repository that will support the development of cyberliteracy in the ML space. Unlike much of current MLrelated training material found easily online, CIML material will be centered on science and . engineering applications that make use of CI-enabled ML techniques and will be used to train a research workforce that is capable of understanding the challenges of working with CI, new HPC architectures, software, and applications. The user community for CIML training material will include students (undergraduate, graduate), postdocs, PIs, researchers, educators, and HPC trainers, each with their own diverse backgrounds and application requirements. The project will support national educational goals by ensuring that the CI modules run on advanced CI tools and resources, and that core literacy and discipline appropriate skills in advanced CI will be integrated into curricula and instructional material. CIML will support national security concerns by facilitating a workforce capable of developing ML applications in scientific domains such as climate and weather, the biosciences, physics, and chemistry. As a result of outreach and extension of the training efforts, this program will impact thousands of users and help develop the next generation of the CI research workforce. CIML training material will be available online, so the project has a huge potential to reach beyond the NSF cyber workforce to impact other communities including hospital and medical treatment systems, transportation and electrical monitoring systems, stock market monitoring systems, and disaster response systems. The Cyberinfrastructure-enabled Machine Learning (CIML) training system and repository will use a ?best practices? approach to develop a unique program targeted towards the research workforce who use machine learning (ML) and big data analytics methods for their domain specific applications or instructional material on large-scale cyberinfrastructure. The project will apply methods of Cyber Literacy and HPC Competencies to define a set of core ML and domain specific literacy areas as a function of the dimensions of learning ranging from a technological focus to a problem-solving focus or a focus on ML or computational science. Sources for the CIML system will be drawn from the work of HPC training, existing HPC researchers and users, collaborators, as well as new code and methods. The materials developed will be available via the CIML repository, which includes a web site, documentation, GitHub repositories for code, data, and related materials. CIMIL will become a useful tool for 2 communities: users who want to understand what technologies and skills they need to master in order to run a particular ML application, what systems to use, and suggested software libraries; and trainers who need to know what topics to teach. The outcome of these efforts will result in a community of machine learning and data analytics CI Users (CIU) and Contributors (CIC) who actively contribute to the training material repository and incorporate the materials into their projects and courses. As a result of these efforts, the CIML program will extend the scope of the ongoing education and training across the research workforce by developing cyberinfrastructure-based materials that will utilize and contribute to training material developed for XSEDE training, higher education, and other programs, and will impact thousands of existing and new users, including students (undergrads/grads), postdocs, PIs, researchers, and educators, each with their own diverse backgrounds and application requirements. CIML training material will be available online, so the project has a huge potential to reach beyond the cyber workforce and to impact many communities, including hospital and medical treatment systems, transportation and electrical monitoring systems, stock and market monitoring systems, and disaster response systems. This award reflects NSF’s statutory mission and has been deemed worthy of support through evaluation using the Foundation’s intellectual merit and broader impacts review criteria. ",
+    "url": "http://localhost:4000/docs/2020-09-16-NSF-award/",
+    "relUrl": "/docs/2020-09-16-NSF-award/"
+  },"1": {
+    "doc": "CI",
+    "title": "Introduction to CI",
+    "content": "An Introduction about Big Data should appear here . ",
+    "url": "http://localhost:4000/docs/CI#introduction-to-ci",
+    "relUrl": "/docs/CI#introduction-to-ci"
+  },"2": {
+    "doc": "CI",
+    "title": "CI",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI",
+    "relUrl": "/docs/CI"
+  },"3": {
+    "doc": "CIML Literacy",
+    "title": "Introduction to CIML Literacy",
+    "content": "An Introduction about Big Data should appear here . ",
+    "url": "http://localhost:4000/docs/CIML_Literacy#introduction-to-ciml-literacy",
+    "relUrl": "/docs/CIML_Literacy#introduction-to-ciml-literacy"
+  },"4": {
+    "doc": "CIML Literacy",
+    "title": "CIML Literacy",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CIML_Literacy",
+    "relUrl": "/docs/CIML_Literacy"
+  },"5": {
+    "doc": "CI Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/CI/CIlec1/#something",
+    "relUrl": "/docs/CI/CIlec1/#something"
+  },"6": {
+    "doc": "CI Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlec1/#something-1",
+    "relUrl": "/docs/CI/CIlec1/#something-1"
+  },"7": {
+    "doc": "CI Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlec1/#something-2",
+    "relUrl": "/docs/CI/CIlec1/#something-2"
+  },"8": {
+    "doc": "CI Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/CI/CIlec1/#something-3",
+    "relUrl": "/docs/CI/CIlec1/#something-3"
+  },"9": {
+    "doc": "CI Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlec1/#something-4",
+    "relUrl": "/docs/CI/CIlec1/#something-4"
+  },"10": {
+    "doc": "CI Lecture 1",
+    "title": "CI Lecture 1",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlec1/",
+    "relUrl": "/docs/CI/CIlec1/"
+  },"11": {
+    "doc": "CI Lectures",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/CI/CIlecs/#something",
+    "relUrl": "/docs/CI/CIlecs/#something"
+  },"12": {
+    "doc": "CI Lectures",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlecs/#something-1",
+    "relUrl": "/docs/CI/CIlecs/#something-1"
+  },"13": {
+    "doc": "CI Lectures",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlecs/#something-2",
+    "relUrl": "/docs/CI/CIlecs/#something-2"
+  },"14": {
+    "doc": "CI Lectures",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/CI/CIlecs/#something-3",
+    "relUrl": "/docs/CI/CIlecs/#something-3"
+  },"15": {
+    "doc": "CI Lectures",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlecs/#something-4",
+    "relUrl": "/docs/CI/CIlecs/#something-4"
+  },"16": {
+    "doc": "CI Lectures",
+    "title": "CI Lectures",
+    "content": " ",
+    "url": "http://localhost:4000/docs/CI/CIlecs/",
+    "relUrl": "/docs/CI/CIlecs/"
+  },"17": {
+    "doc": "Computational Thinking",
+    "title": "Introduction to Computational Thinking",
+    "content": "An Introduction about Computational Thinking should appear here . ",
+    "url": "http://localhost:4000/docs/Computational_Thinking#introduction-to-computational-thinking",
+    "relUrl": "/docs/Computational_Thinking#introduction-to-computational-thinking"
+  },"18": {
+    "doc": "Computational Thinking",
+    "title": "Computational Thinking",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Computational_Thinking",
+    "relUrl": "/docs/Computational_Thinking"
+  },"19": {
+    "doc": "Discipline Specific Challenges",
+    "title": "Introduction to Discipline Specific Challenges",
+    "content": "An Introduction about Discipline Specific Challenges should appear here . ",
+    "url": "http://localhost:4000/docs/Discipline_Specific_Challenges#introduction-to-discipline-specific-challenges",
+    "relUrl": "/docs/Discipline_Specific_Challenges#introduction-to-discipline-specific-challenges"
+  },"20": {
+    "doc": "Discipline Specific Challenges",
+    "title": "Discipline Specific Challenges",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Discipline_Specific_Challenges",
+    "relUrl": "/docs/Discipline_Specific_Challenges"
+  },"21": {
+    "doc": "Discipline Specific Data",
+    "title": "Introduction to Discipline Specific Data",
+    "content": "An Introduction about Discipline Specific Data should appear here . ",
+    "url": "http://localhost:4000/docs/Discipline_Specific_Data#introduction-to-discipline-specific-data",
+    "relUrl": "/docs/Discipline_Specific_Data#introduction-to-discipline-specific-data"
+  },"22": {
+    "doc": "Discipline Specific Data",
+    "title": "Discipline Specific Data",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Discipline_Specific_Data",
+    "relUrl": "/docs/Discipline_Specific_Data"
+  },"23": {
+    "doc": "Discipline Specific HPC Ecosystem",
+    "title": "Introduction to Discipline Specific HPC Ecosystem",
+    "content": "An Introduction about Discipline Specific HPC Ecosystem should appear here . ",
+    "url": "http://localhost:4000/docs/Discipline_Specific_HPC_Ecosystem#introduction-to-discipline-specific-hpc-ecosystem",
+    "relUrl": "/docs/Discipline_Specific_HPC_Ecosystem#introduction-to-discipline-specific-hpc-ecosystem"
+  },"24": {
+    "doc": "Discipline Specific HPC Ecosystem",
+    "title": "Discipline Specific HPC Ecosystem",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Discipline_Specific_HPC_Ecosystem",
+    "relUrl": "/docs/Discipline_Specific_HPC_Ecosystem"
+  },"25": {
+    "doc": "Interdisciplinary Communication",
+    "title": "Introduction to Interdisciplinary Communication",
+    "content": "An Introduction about Interdisciplinary Communication should appear here . ",
+    "url": "http://localhost:4000/docs/Interdisciplinary_Communication#introduction-to-interdisciplinary-communication",
+    "relUrl": "/docs/Interdisciplinary_Communication#introduction-to-interdisciplinary-communication"
+  },"26": {
+    "doc": "Interdisciplinary Communication",
+    "title": "Interdisciplinary Communication",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Interdisciplinary_Communication",
+    "relUrl": "/docs/Interdisciplinary_Communication"
+  },"27": {
+    "doc": "Machine Learning",
+    "title": "Introduction to Machine Learning",
+    "content": "An Introduction about Machine Learning should appear here . ",
+    "url": "http://localhost:4000/docs/Machine_Learning#introduction-to-machine-learning",
+    "relUrl": "/docs/Machine_Learning#introduction-to-machine-learning"
+  },"28": {
+    "doc": "Machine Learning",
+    "title": "Machine Learning",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Machine_Learning",
+    "relUrl": "/docs/Machine_Learning"
+  },"29": {
+    "doc": "Big Data",
+    "title": "Introduction to Big Data",
+    "content": "An Introduction about Big Data should appear here . ",
+    "url": "http://localhost:4000/docs/Big_Data#introduction-to-big-data",
+    "relUrl": "/docs/Big_Data#introduction-to-big-data"
+  },"30": {
+    "doc": "Big Data",
+    "title": "Big Data",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big_Data",
+    "relUrl": "/docs/Big_Data"
+  },"31": {
+    "doc": "Big Data Lecture 2",
+    "title": "Lecture content",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content"
+  },"32": {
+    "doc": "Big Data Lecture 2",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-1",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-1"
+  },"33": {
+    "doc": "Big Data Lecture 2",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-2",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-2"
+  },"34": {
+    "doc": "Big Data Lecture 2",
+    "title": "Lecture content",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-3",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-3"
+  },"35": {
+    "doc": "Big Data Lecture 2",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-4",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%202/#lecture-content-4"
+  },"36": {
+    "doc": "Big Data Lecture 2",
+    "title": "Big Data Lecture 2",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%202/",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%202/"
+  },"37": {
+    "doc": "Big Data Lecture 3",
+    "title": "Lecture content",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content"
+  },"38": {
+    "doc": "Big Data Lecture 3",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-1",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-1"
+  },"39": {
+    "doc": "Big Data Lecture 3",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-2",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-2"
+  },"40": {
+    "doc": "Big Data Lecture 3",
+    "title": "Lecture content",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-3",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-3"
+  },"41": {
+    "doc": "Big Data Lecture 3",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-4",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%203/#lecture-content-4"
+  },"42": {
+    "doc": "Big Data Lecture 3",
+    "title": "Big Data Lecture 3",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%203/",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%203/"
+  },"43": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%204/#something",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%204/#something"
+  },"44": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%204/#something-1",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%204/#something-1"
+  },"45": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%204/#something-2",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%204/#something-2"
+  },"46": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%204/#something-3",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%204/#something-3"
+  },"47": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%204/#something-4",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%204/#something-4"
+  },"48": {
+    "doc": "Big Data Lecture 1",
+    "title": "Big Data Lecture 1",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%204/",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%204/"
+  },"49": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%205/#something",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%205/#something"
+  },"50": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%205/#something-1",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%205/#something-1"
+  },"51": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%205/#something-2",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%205/#something-2"
+  },"52": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%205/#something-3",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%205/#something-3"
+  },"53": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%205/#something-4",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%205/#something-4"
+  },"54": {
+    "doc": "Big Data Lecture 1",
+    "title": "Big Data Lecture 1",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%205/",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%205/"
+  },"55": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%206/#something",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%206/#something"
+  },"56": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%206/#something-1",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%206/#something-1"
+  },"57": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%206/#something-2",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%206/#something-2"
+  },"58": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%206/#something-3",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%206/#something-3"
+  },"59": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%206/#something-4",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%206/#something-4"
+  },"60": {
+    "doc": "Big Data Lecture 1",
+    "title": "Big Data Lecture 1",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy%206/",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy%206/"
+  },"61": {
+    "doc": "Big Data Lecture 1",
+    "title": "Lecture content",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy/#lecture-content",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy/#lecture-content"
+  },"62": {
+    "doc": "Big Data Lecture 1",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-1",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-1"
+  },"63": {
+    "doc": "Big Data Lecture 1",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-2",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-2"
+  },"64": {
+    "doc": "Big Data Lecture 1",
+    "title": "Lecture content",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-3",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-3"
+  },"65": {
+    "doc": "Big Data Lecture 1",
+    "title": "Lecture content",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-4",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy/#lecture-content-4"
+  },"66": {
+    "doc": "Big Data Lecture 1",
+    "title": "Big Data Lecture 1",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1%20copy/",
+    "relUrl": "/docs/Big%20Data/bigdatalec1%20copy/"
+  },"67": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1/#something",
+    "relUrl": "/docs/Big%20Data/bigdatalec1/#something"
+  },"68": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1/#something-1",
+    "relUrl": "/docs/Big%20Data/bigdatalec1/#something-1"
+  },"69": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1/#something-2",
+    "relUrl": "/docs/Big%20Data/bigdatalec1/#something-2"
+  },"70": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1/#something-3",
+    "relUrl": "/docs/Big%20Data/bigdatalec1/#something-3"
+  },"71": {
+    "doc": "Big Data Lecture 1",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1/#something-4",
+    "relUrl": "/docs/Big%20Data/bigdatalec1/#something-4"
+  },"72": {
+    "doc": "Big Data Lecture 1",
+    "title": "Big Data Lecture 1",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalec1/",
+    "relUrl": "/docs/Big%20Data/bigdatalec1/"
+  },"73": {
+    "doc": "Big Data Lectures",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalecs/#something",
+    "relUrl": "/docs/Big%20Data/bigdatalecs/#something"
+  },"74": {
+    "doc": "Big Data Lectures",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalecs/#something-1",
+    "relUrl": "/docs/Big%20Data/bigdatalecs/#something-1"
+  },"75": {
+    "doc": "Big Data Lectures",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalecs/#something-2",
+    "relUrl": "/docs/Big%20Data/bigdatalecs/#something-2"
+  },"76": {
+    "doc": "Big Data Lectures",
+    "title": "something",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalecs/#something-3",
+    "relUrl": "/docs/Big%20Data/bigdatalecs/#something-3"
+  },"77": {
+    "doc": "Big Data Lectures",
+    "title": "something",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalecs/#something-4",
+    "relUrl": "/docs/Big%20Data/bigdatalecs/#something-4"
+  },"78": {
+    "doc": "Big Data Lectures",
+    "title": "Big Data Lectures",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Big%20Data/bigdatalecs/",
+    "relUrl": "/docs/Big%20Data/bigdatalecs/"
+  },"79": {
+    "doc": "D",
+    "title": "D",
+    "content": "A grandchild of page B . title: D parent: C grand_parent: B . ",
+    "url": "http://localhost:4000/docs/etc/dcb/",
+    "relUrl": "/docs/etc/dcb/"
+  },"80": {
+    "doc": "image map",
+    "title": "image map",
+    "content": " ",
+    "url": "http://localhost:4000/docs/imagemap",
+    "relUrl": "/docs/imagemap"
+  },"81": {
+    "doc": "CIML Home",
+    "title": "Main Page Under construction",
+    "content": " ",
+    "url": "http://localhost:4000/#main-page-under-construction",
+    "relUrl": "/#main-page-under-construction"
+  },"82": {
+    "doc": "CIML Home",
+    "title": "CIML Home",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"83": {
+    "doc": "Team Members",
+    "title": "Team Members",
+    "content": " ",
+    "url": "http://localhost:4000/docs/members",
+    "relUrl": "/docs/members"
+  }
+}
