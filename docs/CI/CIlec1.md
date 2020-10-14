@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CI Lecture 1
-parent: CIlecs
+parent: /CIlecs
 has_children: true
 nav_order: 5
 ---
