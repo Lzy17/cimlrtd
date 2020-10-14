@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Big Data Introduction
+title: Big Data
 nav_order: 3
 has_children: true
-permalink: /docs/bigdataintro
+permalink: /docs/big-data
 ---
 
 # Introduction to Big Data
