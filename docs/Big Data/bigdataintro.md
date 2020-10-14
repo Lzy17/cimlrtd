@@ -3,7 +3,8 @@ layout: default
 title: Big Data
 nav_order: 3
 has_children: true
-permalink: /docs/Big Data
+parent: Big Data
+permalink: /docs/bigdataintro
 ---
 
 # Introduction to Big Data
