@@ -2,7 +2,6 @@
 layout: post
 title:  "NSF AWARD"
 date:   2020-09-16 16:34:20
-categories: awards
 image: https://cee.engineering.ucdavis.edu/sites/g/files/dgvnsk6911/files/styles/sf_landscape_16x9/public/images/article/nsf_logo.jpg?h=ce3659a3&itok=7WHU5_gX
 ---
 This project is targeted towards the NSF research workforce who need to develop machine
