@@ -3,7 +3,7 @@ layout: default
 title: CI
 nav_order: 3
 has_children: true
-permalink: /docs/CI
+permalink: /docs/CI/CI
 ---
 
 # Introduction to CI
